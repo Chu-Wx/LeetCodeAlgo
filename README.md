@@ -5,6 +5,7 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 ### EASY
 * [121. Best Time to Buy and Sell Stock](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/121.py)
 * [122. Best Time to Buy and Sell Stock II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/122.py)
+* [509. Fibonacci Number](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/509.py)
 
 ### MEDIUM
 
