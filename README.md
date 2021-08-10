@@ -14,3 +14,4 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 * [873. Length of Longest Fibonacci Subsequence](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/873.py)
 
 ### Palindrome
+* [131. Palindrome Partitioning](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/131.py)
