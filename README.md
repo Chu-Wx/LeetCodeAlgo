@@ -10,7 +10,6 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 * [Temple for Stock problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/404998/All-in-One-O(n)-time-O(1)-space-Python-solution)
 
 ### Fibonacci Sequence
-* [91]()
 * [1137. N-th Tribonacci Number](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/1137.py)
 * [70. Climbing Stairs](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/70.py)
 * [509. Fibonacci Number](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/509.py)
