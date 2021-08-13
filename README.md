@@ -31,3 +31,4 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 
 ### Other 
 * [53. Maximum Subarray](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/53.py)
+* [139. Word Break](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/139.py)
