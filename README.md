@@ -25,7 +25,7 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 * [5. Longest Palindromic Substring](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/5.py)
 
 ### House Robbing
-* [198. House Robber]
+* [198. House Robber](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/198.py)
 * []
 * [740. Delete and Earn]
 
