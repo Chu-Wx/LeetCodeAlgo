@@ -3,7 +3,7 @@ def deleteAndEarn(self, nums):
         for num in nums:
             points[num] += num   # num = [3,3,3,2,2,4] -> [0,0,4,9,4] value * occurances
         return self.rob(points) 
-    def rob(self, nums):
+def rob(self, nums):
         '''prev = curr = 0
         for value in nums:
             prev, curr = curr, max(prev + value, curr)
