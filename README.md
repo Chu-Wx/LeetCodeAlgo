@@ -24,6 +24,10 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 * [647. Palindromic Substrings](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/647.py)
 * [5. Longest Palindromic Substring](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/5.py)
 
+### House Robbing
+* [198. House Robber]
+* []
+* [740. Delete and Earn]
 
 ### Pascal's Triangle
 * [118. Pascal's Triangle](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/118.py)
