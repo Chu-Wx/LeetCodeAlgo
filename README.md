@@ -27,7 +27,7 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 ### House Robbing
 * [198. House Robber](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/198.py)
 * []
-* [740. Delete and Earn]
+* [740. Delete and Earn](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/740.py)
 
 ### Pascal's Triangle
 * [118. Pascal's Triangle](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/118.py)
