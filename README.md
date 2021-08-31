@@ -34,6 +34,7 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 * [119. Pascal's Triangle II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/119.py)
 
 ### Tree
+* [100. Same Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/100.py)
 * [94. Binary Tree Inorder Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/94.py)
 * [144. Binary Tree Preorder Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/144.py)
 * [145. Binary Tree Postorder Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/145.py)
