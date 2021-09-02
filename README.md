@@ -51,6 +51,5 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 * [101. Symmetric Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/101.py)
 * [104. Maximum Depth of Binary Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/104.py)
 * [110. Balanced Binary Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/110.py)
-
 * [1302. Deepest Leaves Sum](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/1302.py)
 
