@@ -39,14 +39,18 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 
 
 ## Tree
-* [100. Same Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/100.py)
-* [101. Symmetric Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/101.py)
-* [104. Maximum Depth of Binary Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/104.py)
-* [110. Balanced Binary Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/110.py)
+### Traversal
 * [94. Binary Tree Inorder Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/94.py)
 * [144. Binary Tree Preorder Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/144.py)
 * [145. Binary Tree Postorder Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/145.py)
 * [590. N-ary Tree Postorder Traversa](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/590.py)
 * [589. N-ary Tree Preorder Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/589.py)
+
+### Same Tree
+* [100. Same Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/100.py)
+* [101. Symmetric Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/101.py)
+* [104. Maximum Depth of Binary Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/104.py)
+* [110. Balanced Binary Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/110.py)
+
 * [1302. Deepest Leaves Sum](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/1302.py)
 
