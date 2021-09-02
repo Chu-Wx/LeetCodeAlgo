@@ -40,6 +40,7 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 
 ## Tree
 ### Traversal
+* [872. Leaf-Similar Trees](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/872.py)
 * [94. Binary Tree Inorder Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/94.py)
 * [144. Binary Tree Preorder Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/144.py)
 * [145. Binary Tree Postorder Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/145.py)
