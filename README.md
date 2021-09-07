@@ -51,6 +51,7 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 ### Cut tree
 * [814. Binary Tree Pruning](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/814.py)
 * [669. Trim a Binary Search Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/669.py)
+* [1325. Delete Leaves With a Given Value](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/1325.py)
 
 ### Same Tree
 * [100. Same Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/100.py)
