@@ -62,3 +62,6 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 * [572. Subtree of Another Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/572.py)
 * [965. Univalued Binary Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/965.py)
 
+### SumPath
+* [112. Path Sum](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/112.py)
+
