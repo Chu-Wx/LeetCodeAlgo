@@ -72,4 +72,5 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 * [236. Lowest Common Ancestor of a Binary Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/236.py)
 
 ## Divide & Conquer
-* []
+* [169. Majority Element](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/169.py)
+
