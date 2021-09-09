@@ -1,8 +1,5 @@
-def findMin(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+def findMin(self, nums): # binary
+        
         # set left and right bounds
         left, right = 0, len(nums)-1
                 
@@ -16,12 +13,7 @@ def findMin(self, nums):
 			# fixed size integer types)
             mid = (left + right) // 2
                         
-            # the main idea for our checks is to converge the left and right bounds on the start
-            # of the pivot, and never disqualify the index for a possible minimum value.
-
-            # in normal binary search, we have a target to match exactly,
-            # and would have a specific branch for if nums[mid] == target.
-            # we do not have a specific target here, so we just have simple if/else.
+            
                         
             if nums[mid] > nums[right]:
                 # we KNOW the pivot must be to the right of the middle:
@@ -29,11 +21,6 @@ def findMin(self, nums):
                 # pivot/minimum value must have occurred somewhere to the right
                 # of mid, which is why the values wrapped around and became smaller.
 
-                # example:  [3,4,5,6,7,8,9,1,2] 
-                # in the first iteration, when we start with mid index = 4, right index = 9.
-                # if nums[mid] > nums[right], we know that at some point to the right of mid,
-                # the pivot must have occurred, which is why the values wrapped around
-                # so that nums[right] is less then nums[mid]
 
                 # we know that the number at mid is greater than at least
                 # one number to the right, so we can use mid + 1 and
@@ -49,12 +36,7 @@ def findMin(self, nums):
                 # and become smaller (which is caught in the above if statement).
                 # this leaves the possible pivot point to be at index <= mid.
                             
-                # example: [8,9,1,2,3,4,5,6,7]
-                # in the first iteration, when we start with mid index = 4, right index = 9.
-                # if nums[mid] <= nums[right], we know the numbers continued increasing to
-                # the right of mid, so they never reached the pivot and wrapped around.
-                # therefore, we know the pivot must be at index <= mid.
-
+     
                 # we know that nums[mid] <= nums[right].
                 # therefore, we know it is possible for the mid index to store a smaller
                 # value than at least one other index in the list (at right), so we do
