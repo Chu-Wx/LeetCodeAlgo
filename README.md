@@ -67,3 +67,5 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 * [113. Path Sum II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/113.py)
 * [129. Sum Root to Leaf Numbers](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/129.py)
 
+### Ancestor 
+* [236. Lowest Common Ancestor of a Binary Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/236.py)
