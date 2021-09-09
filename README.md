@@ -73,4 +73,5 @@ Classifying the classical Algorithm will be used in the coding interview (EASY, 
 
 ## Divide & Conquer
 * [169. Majority Element](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/169.py)
+* [153. Find Minimum in Rotated Sorted Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/153.py)
 
