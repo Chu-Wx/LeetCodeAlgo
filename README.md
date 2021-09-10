@@ -3,7 +3,7 @@ Classifying the classical coding questions
 
 ## LintCode Intro
 * [Lint-37. Reverse 3-digit Integer](https://www.lintcode.com/problem/37)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt37.py)
-* [Lint-214. Max of Array](https://www.lintcode.com/problem/214)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt214.py)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-214. Max of Array](https://www.lintcode.com/problem/214)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt214.py)
 * [Lint-283. Max of 3 Numbers](https://www.lintcode.com/problem/283)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
 * [Lint-146. Lower to uppercase II](https://www.lintcode.com/problem/146)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
 * [Lint-241. String to Integer](https://www.lintcode.com/problem/241)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
