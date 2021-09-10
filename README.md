@@ -25,8 +25,25 @@ Classifying the classical coding questions
 
 ## Binary Search
 ### 必背
+* [704. Binary Search]
+* [33. Search in Rotated Sorted Array]
+* [81. Search in Rotated Sorted Array II]
 ### 核心
+* [34. Find First and Last Position of Element in Sorted Array]
+* [702. Search in a Sorted Array of Unknown Size]
+* [4. Median of Two Sorted Arrays]
+* [74. Search a 2D Matrix]
+* [162. Find Peak Element]
+* [875. Koko Eating Bananas]
+* [1283. Find the Smallest Divisor Given a Threshold]
 ### 重点
+* [153. Find Minimum in Rotated Sorted Array]
+* [154. Find Minimum in Rotated Sorted Array II]
+* [278. First Bad Version]
+* [658. Find K Closest Elements]
+* [302. Smallest Rectangle Enclosing Black Pixels]
+* [852. Peak Index in a Mountain Array]
+* [https://leetcode.com/problems/sqrtx]
 ### 普通
 
 
