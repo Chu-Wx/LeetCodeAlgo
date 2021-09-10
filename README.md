@@ -55,7 +55,7 @@ Classifying the classical coding questions
 * [Lint-438. Copy Books II]
 ## Multi-Pointers
 
-1. Array
+***1. Array***
 ### 必背
 * [912. Sort an Array (Quick Sort and Merge Sort)]
 * [75. Sort Colors]
@@ -79,7 +79,7 @@ Classifying the classical coding questions
 * [Lint-461. Kth Smallest Numbers in Unsorted Array]
 * [Lint-544. Top k Largest Numbers]
 
-2. LinkedList
+***2. LinkedList***
 ### 必背
 * [21. Merge Two Sorted Lists]
 ### 核心
@@ -93,7 +93,7 @@ Classifying the classical coding questions
 * [287. Find the Duplicate Number]
 * [876. Middle of the Linked List]
 
-3. Interval
+***3. Interval***
 ### 必背
 * [Lint-391. Number of Airplanes in the Sky]
 ### 核心
@@ -103,7 +103,7 @@ Classifying the classical coding questions
 * [253. Meeting Rooms II]
 * [986. Interval List Intersections]
 
-4. Palindrome
+***4. Palindrome***
 
 ### 核心
 * [5. Longest Palindromic Substring]
@@ -113,7 +113,7 @@ Classifying the classical coding questions
 
 * [125. Valid Palindrome]
 
-5. Sliding Window
+***5. Sliding Window***
 ### 必背
 * [3. Longest Substring Without Repeating Characters]
 ### 核心
@@ -129,7 +129,7 @@ Classifying the classical coding questions
 * [727. Minimum Window Subsequence]
 * [Lint-604. Window Sum]
 
-6. Sream 
+***6. Sream ***
 
 ### 核心
 * [295. Find Median from Data Stream]
@@ -139,7 +139,7 @@ Classifying the classical coding questions
 * [703. Kth Largest Element in a Stream]
 
 
-7. Subarray
+***7. Subarray***
 ### 必背
 * [53. Maximum Subarray]
 ### 核心
@@ -150,7 +150,7 @@ Classifying the classical coding questions
 * [560. Subarray Sum Equals K]
 
 
-8. Sum Question
+***8. Sum Question***
 ### 必背
 * [1. Two Sum]
 ### 核心
@@ -171,7 +171,7 @@ Classifying the classical coding questions
 * [Lint-610. Two Sum - Difference equals to target]
 
 ## BFS
-1. Binary Tree
+***1. Binary Tree***
 ### 必背
 * [297. Serialize and Deserialize Binary Tree]
 ### 核心
@@ -182,7 +182,7 @@ Classifying the classical coding questions
 ### 重点
 * [Lint-242. Convert Binary Tree to Linked Lists by Depth]
 
-2. 拓扑
+***2. 拓扑***
 ### 必背
 * [Lint-127. Topological Sorting]
 ### 核心
@@ -192,7 +192,7 @@ Classifying the classical coding questions
 ### 重点
 * [444. Sequence Reconstruction]
 
-3. Matrix
+***3. Matrix***
 ### 必背
 * [200. Number of Islands]
 ### 核心
@@ -209,7 +209,7 @@ Classifying the classical coding questions
 * [Lint-611. Knight Shortest Path]
 * [Lint-794. Sliding Puzzle II]
 
-4. Graph
+***4. Graph***
 ### 必背
 * [133. Clone Graph]
 ### 核心
@@ -224,20 +224,20 @@ Classifying the classical coding questions
 * [Lint-624. Remove Substrings]
 
 ## Binary Tree & Recursion
-1. Tree Traversal
+***1. Tree Traversal***
 ### 必背
 * [94. Binary Tree Inorder Traversal]
 * [144. Binary Tree Preorder Traversal]
 * [145. Binary Tree Postorder Traversal]
 
-2. Construct Binary Tree
+***2. Construct Binary Tree***
 ### 必背
 * [105. Construct Binary Tree from Preorder and Inorder Traversal
 ### 核心
 * [106. Construct Binary Tree from Inorder and Postorder Traversal]
 * [889. Construct Binary Tree from Preorder and Postorder Traversal]
 
-3. Iterator 
+***3. Iterator ***
 ### 必背
 * [173. Binary Search Tree Iterator]
 ### 核心
@@ -249,14 +249,14 @@ Classifying the classical coding questions
 * [510. Inorder Successor in BST II]
 * [Lint-915. Inorder Predecessor in BST II]
 
-4. Check Tree
+***4. Check Tree***
 ### 核心
 * [98. Validate Binary Search Tree]
 * [100. Same Tree]
 * [101. Symmetric Tree]
 * [110. Balanced Binary Tree]
 
-5. Sub Tree
+***5. Sub Tree***
 ### 核心
 * [111. Minimum Depth of Binary Tree]
 ### 重点
@@ -265,7 +265,7 @@ Classifying the classical coding questions
 * [Lint-596. Minimum Subtree]
 * [Lint-597. Subtree with Maximum Average]
 
-6.Path
+***6.Path***
 ### 核心
 * [112. Path Sum]
 * [113. Path Sum II]
@@ -276,14 +276,14 @@ Classifying the classical coding questions
 * [549. Binary Tree Longest Consecutive Sequence II]
 * [Lint-619. Binary Tree Longest Consecutive Sequence III]
 
-7. LCA
+***7. LCA***
 ### 核心
 * [236. Lowest Common Ancestor of a Binary Tree]
 ### 重点
 * [Lint-474. Lowest Common Ancestor II]
 * [Lint-578. Lowest Common Ancestor III]
 
-8. Other
+***8. Other***
 ### 核心
 * [199. Binary Tree Right Side View]
 * [513. Find Bottom Left Tree Value]
@@ -293,7 +293,7 @@ Classifying the classical coding questions
 * [114. Flatten Binary Tree to Linked List]
 
 ## DFS
-1. Combinations
+***1. Combinations***
 ### 必背
 * [39. Combination Sum]
 * [40. Combination Sum II]
@@ -318,7 +318,7 @@ Classifying the classical coding questions
 * [Lint-570. Find the Missing Number II]
 * [Lint-680. Split String]
 
-2. Binary Tree
+***2. Binary Tree***
 ### 核心
 * [113. Path Sum II]
 * [257. Binary Tree Paths]
@@ -326,7 +326,7 @@ Classifying the classical coding questions
 * [Lint-376. Binary Tree Path Sum]
 * [Lint-472. Binary Tree Path Sum III]
 
-3. Graph
+***3. Graph***
 ### 核心
 * [140. Word Break II]
 * [494. Target Sum]
@@ -337,7 +337,7 @@ Classifying the classical coding questions
 * [291. Word Pattern II]
 
 ## Data Structure
-1. Array & Matrix
+***1. Array & Matrix***
 ### 核心
 * [442. Find All Duplicates in an Array]
 * [48. Rotate Image]
@@ -345,7 +345,7 @@ Classifying the classical coding questions
 * [73. Set Matrix Zeroes]
 * [289. Game of Life]
 
-2. String
+***2. String***
 ### 核心
 * [6. ZigZag Conversion]
 * [13. Roman to Integer]
@@ -353,7 +353,7 @@ Classifying the classical coding questions
 * [68. Text Justification]
 * [443. String Compression]
 
-3. Linked List
+***3. Linked List***
 ### 必背
 * [2. Add Two Numbers]
 * [21. Merge Two Sorted Lists]
@@ -377,7 +377,7 @@ Classifying the classical coding questions
 * [142. Linked List Cycle II]
 * [876. Middle of the Linked List]
 
-4. Hash
+***4. Hash***
 ### 必背
 * [706. Design HashMap]
 ### 核心
@@ -388,7 +388,7 @@ Classifying the classical coding questions
 ### 重点
 * [290. Word Pattern]
 
-5. Heap
+***5. Heap***
 ### 必背
 * [23. Merge k Sorted Lists]
 ### 核心
@@ -401,7 +401,7 @@ Classifying the classical coding questions
 * [480. Sliding Window Median]
 * [703. Kth Largest Element in a Stream]
 
-6. Stack
+***6. Stack***
 ### 必背
 * [155. Min Stack]
 ### 核心
@@ -412,7 +412,7 @@ Classifying the classical coding questions
 * [394. Decode String]
 * [1249. Minimum Remove to Make Valid Parentheses]
 
-7. Monotonic Stack
+***7. Monotonic Stack***
 ### 必背
 * [300. Longest Increasing Subsequence (Patience Sort)]
 ### 核心
@@ -420,7 +420,7 @@ Classifying the classical coding questions
 * [239. Sliding Window Maximum]
 * [1019. Next Greater Node In Linked List]
 
-8. Trie
+***8. Trie***
 ### 必背
 * [208. Implement Trie (Prefix Tree)]
 ### 核心
@@ -428,7 +428,7 @@ Classifying the classical coding questions
 ### 重点
 * [1032. Stream of Characters]
 
-9. Union Find
+***9. Union Find***
 ### 必背
 * [200. Number of Islands]
 ### 核心
@@ -436,14 +436,14 @@ Classifying the classical coding questions
 ### 重点
 * [323. Number of Connected Components in an Undirected Graph]
 
-10. Sweep Line
+***10. Sweep Line***
 ### 必背
 * [Lint-391. Number of Airplanes in the Sky]
 ### 核心
 * [252. Meeting Rooms]
 * [253. Meeting Rooms II]
   
-10. Binary Index Tree & Segment Tree
+***11. Binary Index Tree & Segment Tree***
 ### 必背
 * [307. Range Sum Query - Mutable]
 ### 重点
@@ -452,7 +452,7 @@ Classifying the classical coding questions
 * [315. Count of Smaller Numbers After Self]
 * [493. Reverse Pairs]
 
-11. Complex Data Structure
+***12. Complex Data Structure***
 ### 必背
 * [146. LRU Cache]
 * [460. LFU Cache]
@@ -465,7 +465,7 @@ Classifying the classical coding questions
 * [1396. Design Underground System]
 
 ## Dynamic Programming
-1. Backpack
+***1. Backpack***
 ### 必背
 * [Lint-92. Backpack]
 ### 核心
@@ -478,7 +478,7 @@ Classifying the classical coding questions
 * [Lint-971. Surplus Value Backpack]
 * [474. Ones and Zeroes]
 
-2. Single Sequence
+***2. Single Sequence***
 ### 核心
 * [139. Word Break]
 * [121. Best Time to Buy and Sell Stock]
@@ -490,7 +490,7 @@ Classifying the classical coding questions
 * [265. Paint House II]
 * [Lint-843. Digital Flip]
 
-3. Double Sequences
+***3. Double Sequences***
 ### 核心
 * [10. Regular Expression Matching]
 ### 重点
@@ -500,14 +500,14 @@ Classifying the classical coding questions
 * [115. Distinct Subsequences]
 * [1143. Longest Common Subsequence]
 
-4. Sections
+***4. Sections***
 ### 核心
 * [312. Burst Balloons]
 * [516. Longest Palindromic Subsequence]
 ### 重点
 * [87. Scramble String]
 
-5. Matrix
+***5. Matrix***
 ### 必背
 * [62. Unique Paths]
 * [63. Unique Paths II]
@@ -518,7 +518,7 @@ Classifying the classical coding questions
 ### 重点
 * [361. Bomb Enemy]
 
-5. Other
+***5. Other***
 ### 核心
 * [91. Decode Ways]
 * [Lint-394. Coins in a Line]
@@ -529,7 +529,7 @@ Classifying the classical coding questions
 * [Lint-395. Coins in a Line II]
 * [Lint-396. Coins in a Line III]
 
-6. Greedy
+***6. Greedy***
 ### 核心
 * [55. Jump Game]
 * [45. Jump Game II]
