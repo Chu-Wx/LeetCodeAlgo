@@ -2,26 +2,26 @@
 Classifying the classical coding questions
 
 ## LintCode Intro
-* [Lint-37. Reverse 3-digit Integer](https://www.lintcode.com/problem/37) &nbsp;:book:[Note](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt37.py)
-* [Lint-214. Max of Array]
-* [Lint-283. Max of 3 Numbers]
-* [Lint-146. Lower to uppercase II]
-* [Lint-241. String to Integer]
-* [Lint-449. Char to Integer]
-* [Lint-463. Sort Integers]
-* [Lint-484. Swap Two Intergers in Array]
-* [Lint-485. Generate ArrayList with Given Size]
-* [Lint-225. Find Node in Linked List]
-* [Lint-466. Count Linked List Nodes]
-* [Lint-483. Convert Linked List to Array List]
-* [Lint-454. Rectangle Area]
-* [Lint-478. Simple Calculator]
-* [Lint-366. Fibonacci]
-* [Lint-632. Binary Tree Maximum Node]
-* [Lint-40. Implement Queue by Two Stacks]
-* [Lint-492. Implement Queue by Linked List]
-* [Lint-494. Implement Stack by Two Queues]
-* [Lint-495. Implement Stack]
+* [Lint-37. Reverse 3-digit Integer](https://www.lintcode.com/problem/37)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt37.py)
+* [Lint-214. Max of Array](https://www.lintcode.com/problem/214)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt214.py)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-283. Max of 3 Numbers](https://www.lintcode.com/problem/283)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-146. Lower to uppercase II](https://www.lintcode.com/problem/146)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-241. String to Integer](https://www.lintcode.com/problem/241)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-449. Char to Integer](https://www.lintcode.com/problem/449)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-463. Sort Integers](https://www.lintcode.com/problem/463)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-484. Swap Two Intergers in Array](https://www.lintcode.com/problem/484)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-485. Generate ArrayList with Given Size](https://www.lintcode.com/problem/485)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-225. Find Node in Linked List](https://www.lintcode.com/problem/225)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-466. Count Linked List Nodes](https://www.lintcode.com/problem/466)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-483. Convert Linked List to Array List](https://www.lintcode.com/problem/483)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-454. Rectangle Area](https://www.lintcode.com/problem/454)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-478. Simple Calculator](https://www.lintcode.com/problem/478)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-366. Fibonacci](https://www.lintcode.com/problem/366)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-632. Binary Tree Maximum Node](https://www.lintcode.com/problem/632)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-40. Implement Queue by Two Stacks](https://www.lintcode.com/problem/40)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-492. Implement Queue by Linked List](https://www.lintcode.com/problem/492)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-494. Implement Stack by Two Queues](https://www.lintcode.com/problem/494)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
+* [Lint-495. Implement Stack](https://www.lintcode.com/problem/495)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note]
 
 必背: 默写 10+
 核心: 10-15 mins & multi solutions
