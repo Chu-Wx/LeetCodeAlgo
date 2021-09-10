@@ -1,5 +1,40 @@
-# LeetCodeAlgo
-Classifying the classical Algorithm will be used in the coding interview (EASY, MEDIUM)
+# LC_ALGO
+Classifying the classical coding questions
+
+## LintCode 入门
+* [37]
+* [214]
+* [283]
+* [146]
+* [241]
+* [449]
+* [463]
+* [484]
+* [485]
+* [225]
+* [466]
+* [483]
+* [454]
+* [478]
+* [366]
+* [632]
+* [40]
+* [492]
+* [494]
+* [495]
+
+## Binary Search
+### 必背
+### 核心
+### 重点
+### 普通
+
+
+
+* [必背]
+* [核心]
+* [重点]
+* [普通]
 
 ## Dynamic Programming
 ### Buy and Sell Stock 
