@@ -129,7 +129,7 @@ Classifying the classical coding questions
 * [727. Minimum Window Subsequence]
 * [Lint-604. Window Sum]
 
-***6. Sream ***
+***6. Sream***
 
 ### 核心
 * [295. Find Median from Data Stream]
@@ -237,7 +237,7 @@ Classifying the classical coding questions
 * [106. Construct Binary Tree from Inorder and Postorder Traversal]
 * [889. Construct Binary Tree from Preorder and Postorder Traversal]
 
-***3. Iterator ***
+***3. Iterator***
 ### 必背
 * [173. Binary Search Tree Iterator]
 ### 核心
