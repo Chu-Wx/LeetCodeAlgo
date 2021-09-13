@@ -35,8 +35,8 @@ Classifying the classical coding questions
 ## Binary Search
 ### 必背
 * [704. Binary Search](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/704.md)
-* [33. Search in Rotated Sorted Array]
-* [81. Search in Rotated Sorted Array II]
+* [33. Search in Rotated Sorted Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/33.md)
+* [81. Search in Rotated Sorted Array II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/81.md)
 ### 核心
 * [34. Find First and Last Position of Element in Sorted Array]
 * [702. Search in a Sorted Array of Unknown Size]
