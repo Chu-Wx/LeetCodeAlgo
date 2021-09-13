@@ -29,7 +29,7 @@ Classifying the classical coding questions
 
 ## Binary Search
 ### 必背
-* [704. Binary Search]
+* [704. Binary Search](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/704.md)
 * [33. Search in Rotated Sorted Array]
 * [81. Search in Rotated Sorted Array II]
 ### 核心
