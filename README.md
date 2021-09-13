@@ -1,6 +1,11 @@
 # LC_ALGO
 Classifying the classical coding questions
 
+## BIG-O Cheat Sheet
+<img width="676" alt="Screen Shot 2021-09-13 at 1 58 18 PM" src="https://user-images.githubusercontent.com/64442606/133133355-48c53cb6-5e1a-45cb-81c6-43a001cc7186.png">
+<img width="1034" alt="Screen Shot 2021-09-13 at 1 58 58 PM" src="https://user-images.githubusercontent.com/64442606/133133436-59da970a-a8ed-4e1a-ac2f-f2247763dedb.png">
+
+
 ## LintCode Intro
 * [Lint-37. Reverse 3-digit Integer](https://www.lintcode.com/problem/37)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt37.py)
 * [Lint-214. Max of Array](https://www.lintcode.com/problem/214)&nbsp;&nbsp;&nbsp;&nbsp;:book:[Note](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt214.py)
