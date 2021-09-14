@@ -41,7 +41,7 @@ Classifying the classical coding questions
 * [34. Find First and Last Position of Element in Sorted Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/34.md)
 * [702. Search in a Sorted Array of Unknown Size]LC-PREMIUM
 * [4. Median of Two Sorted Arrays](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/4.md)
-* [74. Search a 2D Matrix]
+* [74. Search a 2D Matrix](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/74.md)
 * [162. Find Peak Element]
 * [875. Koko Eating Bananas]
 * [1283. Find the Smallest Divisor Given a Threshold]
