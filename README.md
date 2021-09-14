@@ -42,7 +42,7 @@ Classifying the classical coding questions
 * [702. Search in a Sorted Array of Unknown Size]LC-PREMIUM
 * [4. Median of Two Sorted Arrays](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/4.md)
 * [74. Search a 2D Matrix](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/74.md)
-* [162. Find Peak Element]
+* [162. Find Peak Element](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/162.md)
 * [875. Koko Eating Bananas]
 * [1283. Find the Smallest Divisor Given a Threshold]
 ### 重点
