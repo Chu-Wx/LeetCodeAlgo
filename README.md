@@ -38,7 +38,7 @@ Classifying the classical coding questions
 * [33. Search in Rotated Sorted Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/33.md)
 * [81. Search in Rotated Sorted Array II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/81.md)
 ### 核心
-* [34. Find First and Last Position of Element in Sorted Array]
+* [34. Find First and Last Position of Element in Sorted Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/34.md)
 * [702. Search in a Sorted Array of Unknown Size]
 * [4. Median of Two Sorted Arrays]
 * [74. Search a 2D Matrix]
