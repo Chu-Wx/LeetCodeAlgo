@@ -46,7 +46,7 @@ Classifying the classical coding questions
 * [875. Koko Eating Bananas](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/875.md)
 * [1283. Find the Smallest Divisor Given a Threshold](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/1283.md)
 ### 重点
-* [153. Find Minimum in Rotated Sorted Array]
+* [153. Find Minimum in Rotated Sorted Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/153.md)
 * [154. Find Minimum in Rotated Sorted Array II]
 * [278. First Bad Version]
 * [658. Find K Closest Elements]
@@ -615,5 +615,4 @@ Classifying the classical coding questions
 
 ## Divide & Conquer
 * [169. Majority Element](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/169.py)
-* [153. Find Minimum in Rotated Sorted Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/153.py)
 
