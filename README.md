@@ -48,7 +48,7 @@ Classifying the classical coding questions
 ### 重点
 * [153. Find Minimum in Rotated Sorted Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/153.md)
 * [154. Find Minimum in Rotated Sorted Array II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/154.md)
-* [278. First Bad Version]
+* [278. First Bad Version](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/278.md)
 * [658. Find K Closest Elements]
 * [302. Smallest Rectangle Enclosing Black Pixels]
 * [852. Peak Index in a Mountain Array]
