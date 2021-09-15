@@ -44,7 +44,7 @@ Classifying the classical coding questions
 * [74. Search a 2D Matrix](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/74.md)
 * [162. Find Peak Element](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/162.md)
 * [875. Koko Eating Bananas](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/875.md)
-* [1283. Find the Smallest Divisor Given a Threshold]
+* [1283. Find the Smallest Divisor Given a Threshold](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/1283.md)
 ### 重点
 * [153. Find Minimum in Rotated Sorted Array]
 * [154. Find Minimum in Rotated Sorted Array II]
