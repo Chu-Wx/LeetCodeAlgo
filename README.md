@@ -50,7 +50,7 @@ Classifying the classical coding questions
 * [154. Find Minimum in Rotated Sorted Array II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/154.md)
 * [278. First Bad Version](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/278.md)
 * [658. Find K Closest Elements](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/658.md)
-* [302. Smallest Rectangle Enclosing Black Pixels]
+* [302. Smallest Rectangle Enclosing Black Pixels]LC-PREMIUM
 * [852. Peak Index in a Mountain Array]
 * [69. Sqrt(x)]
 * [Lint-586. Sqrt(x) II]
