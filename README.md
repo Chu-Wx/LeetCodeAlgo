@@ -51,7 +51,7 @@ Classifying the classical coding questions
 * [278. First Bad Version](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/278.md)
 * [658. Find K Closest Elements](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/658.md)
 * [302. Smallest Rectangle Enclosing Black Pixels]LC-PREMIUM
-* [852. Peak Index in a Mountain Array]
+* [852. Peak Index in a Mountain Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/852.md)
 * [69. Sqrt(x)]
 * [Lint-586. Sqrt(x) II]
 * [Lint-183. Wood Cut]
