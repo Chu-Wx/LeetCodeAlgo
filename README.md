@@ -54,7 +54,7 @@ Classifying the classical coding questions
 * [852. Peak Index in a Mountain Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/852.md)
 * [69. Sqrt(x)](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/69.md)
 * [Lint-586. Sqrt(x) II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt586.md)
-* [Lint-183. Wood Cut]
+* [Lint-183. Wood Cut](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt183.md)
 * [Lint-437. Copy Books]
 * [Lint-438. Copy Books II]
 ## Multi-Pointers
