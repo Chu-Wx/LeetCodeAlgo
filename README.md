@@ -64,7 +64,7 @@ Classifying the classical coding questions
 * [912. Sort an Array (Quick Sort and Merge Sort)](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/912.md)
 * [75. Sort Colors](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/75.md)
 ### 核心
-* [26. Remove Duplicates from Sorted Array]
+* [26. Remove Duplicates from Sorted Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/26.md)
 * [80. Remove Duplicates from Sorted Array II]
 * [88. Merge Sorted Array]
 * [283. Move Zeroes]
