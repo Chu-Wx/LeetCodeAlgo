@@ -69,7 +69,7 @@ Classifying the classical coding questions
 * [88. Merge Sorted Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/88.md)
 * [283. Move Zeroes](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/283.md)
 * [215. Kth Largest Element in an Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/215.md)
-* [347. Top K Frequent Elements]
+* [347. Top K Frequent Elements](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/347.md)
 * [349. Intersection of Two Arrays]
 * [350. Intersection of Two Arrays II]
 * [845. Longest Mountain in Array]
