@@ -66,7 +66,7 @@ Classifying the classical coding questions
 ### 核心
 * [26. Remove Duplicates from Sorted Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/26.md)
 * [80. Remove Duplicates from Sorted Array II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/80.md)
-* [88. Merge Sorted Array]
+* [88. Merge Sorted Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/88.md)
 * [283. Move Zeroes]
 * [215. Kth Largest Element in an Array]
 * [347. Top K Frequent Elements]
