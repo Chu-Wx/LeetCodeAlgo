@@ -71,7 +71,7 @@ Classifying the classical coding questions
 * [215. Kth Largest Element in an Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/215.md)
 * [347. Top K Frequent Elements](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/347.md)
 * [349. Intersection of Two Arrays](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/349.md)
-* [350. Intersection of Two Arrays II]
+* [350. Intersection of Two Arrays II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/350.md)
 * [845. Longest Mountain in Array]
 * [42. Trapping Rain Water]
 * [43. Multiply Strings]
