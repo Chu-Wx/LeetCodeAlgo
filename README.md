@@ -85,7 +85,7 @@ Classifying the classical coding questions
 
 ***2. LinkedList***
 ### 必背
-* [21. Merge Two Sorted Lists]
+* [21. Merge Two Sorted Lists](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/21.md)
 ### 核心
 * [86. Partition List]
 * [141. Linked List Cycle]
