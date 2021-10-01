@@ -133,7 +133,7 @@ Classifying the classical coding questions
 * [727. Minimum Window Subsequence]
 * [Lint-604. Window Sum]
 
-***6. Sream***
+***6. Stream***
 
 ### 核心
 * [295. Find Median from Data Stream]
