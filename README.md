@@ -73,7 +73,7 @@ Classifying the classical coding questions
 * [349. Intersection of Two Arrays](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/349.md)
 * [350. Intersection of Two Arrays II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/350.md)
 * [845. Longest Mountain in Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/845.md)
-* [42. Trapping Rain Water]
+* [42. Trapping Rain Water](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/42.md)
 * [43. Multiply Strings]
 ### 重点
 * [969. Pancake Sorting]
