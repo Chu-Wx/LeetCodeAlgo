@@ -72,7 +72,7 @@ Classifying the classical coding questions
 * [347. Top K Frequent Elements](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/347.md)
 * [349. Intersection of Two Arrays](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/349.md)
 * [350. Intersection of Two Arrays II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/350.md)
-* [845. Longest Mountain in Array]
+* [845. Longest Mountain in Array](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/845.md)
 * [42. Trapping Rain Water]
 * [43. Multiply Strings]
 ### 重点
