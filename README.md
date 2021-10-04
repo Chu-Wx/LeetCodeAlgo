@@ -105,7 +105,7 @@ Classifying the classical coding questions
 * [57. Insert Interval](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/57.md)
 * [252. Meeting Rooms]
 * [253. Meeting Rooms II]
-* [986. Interval List Intersections]
+* [986. Interval List Intersections](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/986.md)
 
 ***4. Palindrome***
 
