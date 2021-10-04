@@ -99,7 +99,7 @@ Classifying the classical coding questions
 
 ***3. Interval***
 ### 必背
-* [Lint-391. Number of Airplanes in the Sky]
+* [Lint-391. Number of Airplanes in the Sky](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt391.md)
 ### 核心
 * [56. Merge Intervals]
 * [57. Insert Interval]
