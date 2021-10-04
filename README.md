@@ -101,7 +101,7 @@ Classifying the classical coding questions
 ### 必背
 * [Lint-391. Number of Airplanes in the Sky](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt391.md)
 ### 核心
-* [56. Merge Intervals]
+* [56. Merge Intervals](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/56.md)
 * [57. Insert Interval]
 * [252. Meeting Rooms]
 * [253. Meeting Rooms II]
