@@ -115,7 +115,7 @@ Classifying the classical coding questions
 * [680. Valid Palindrome II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/680.md)
 ### 重点
 
-* [125. Valid Palindrome]
+* [125. Valid Palindrome](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/125.md)
 
 ***5. Sliding Window***
 ### 必背
