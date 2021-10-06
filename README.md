@@ -112,7 +112,7 @@ Classifying the classical coding questions
 ### 核心
 * [5. Longest Palindromic Substring](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/5.md)
 * [345. Reverse Vowels of a String](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/345.md)
-* [680. Valid Palindrome II]
+* [680. Valid Palindrome II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/680.md)
 ### 重点
 
 * [125. Valid Palindrome]
