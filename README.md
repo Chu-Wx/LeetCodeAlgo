@@ -119,7 +119,7 @@ Classifying the classical coding questions
 
 ***5. Sliding Window***
 ### 必背
-* [3. Longest Substring Without Repeating Characters]
+* [3. Longest Substring Without Repeating Characters](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/3.md)
 ### 核心
 * [11. Container With Most Water]
 * [76. Minimum Window Substring]
