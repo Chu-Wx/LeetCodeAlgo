@@ -122,7 +122,7 @@ Classifying the classical coding questions
 * [3. Longest Substring Without Repeating Characters](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/3.md)
 ### 核心
 * [11. Container With Most Water](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/11.md)
-* [76. Minimum Window Substring]
+* [76. Minimum Window Substring](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/76.md)
 * [209. Minimum Size Subarray Sum]
 * [239. Sliding Window Maximum]
 * [713. Subarray Product Less Than K]
