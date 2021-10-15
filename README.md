@@ -136,7 +136,7 @@ Classifying the classical coding questions
 ***6. Stream***
 
 ### 核心
-* [295. Find Median from Data Stream]
+* [295. Find Median from Data Stream](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/295.md)
 ### 重点
 * [346. Moving Average from Data Stream]
 * [352. Data Stream as Disjoint Intervals]
