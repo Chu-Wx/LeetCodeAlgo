@@ -127,7 +127,7 @@ Classifying the classical coding questions
 * [239. Sliding Window Maximum](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/239.md)
 * [713. Subarray Product Less Than K](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/713.md)
 ### 重点
-* [395. Longest Substring with At Least K Repeating Characters]
+* [395. Longest Substring with At Least K Repeating Characters](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/395.md)
 * [480. Sliding Window Median]
 * [567. Permutation in String]
 * [727. Minimum Window Subsequence]
