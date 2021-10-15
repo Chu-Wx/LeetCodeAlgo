@@ -131,7 +131,7 @@ Classifying the classical coding questions
 * [480. Sliding Window Median]
 * [567. Permutation in String](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/567.md)
 * [727. Minimum Window Subsequence]
-* [Lint-604. Window Sum]
+* [Lint-604. Window Sum](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt604.md)
 
 ***6. Stream***
 
