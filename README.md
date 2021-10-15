@@ -140,7 +140,7 @@ Classifying the classical coding questions
 ### 重点
 * [346. Moving Average from Data Stream]
 * [352. Data Stream as Disjoint Intervals]
-* [703. Kth Largest Element in a Stream]
+* [703. Kth Largest Element in a Stream](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/703.md)
 
 
 ***7. Subarray***
