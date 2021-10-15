@@ -145,7 +145,7 @@ Classifying the classical coding questions
 
 ***7. Subarray***
 ### 必背
-* [53. Maximum Subarray]
+* [53. Maximum Subarray](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/53.md)
 ### 核心
 * [238. Product of Array Except Self]
 * [303. Range Sum Query - Immutable]
