@@ -129,7 +129,7 @@ Classifying the classical coding questions
 ### 重点
 * [395. Longest Substring with At Least K Repeating Characters](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/395.md)
 * [480. Sliding Window Median]
-* [567. Permutation in String]
+* [567. Permutation in String](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/567.md)
 * [727. Minimum Window Subsequence]
 * [Lint-604. Window Sum]
 
