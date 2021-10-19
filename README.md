@@ -150,7 +150,7 @@ Classifying the classical coding questions
 * [238. Product of Array Except Self](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/238.md)
 * [303. Range Sum Query - Immutable](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/303.md)
 * [325. Maximum Size Subarray Sum Equals k]
-* [528. Random Pick with Weight]
+* [528. Random Pick with Weight](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/528.md)
 * [560. Subarray Sum Equals K]
 
 
