@@ -151,7 +151,7 @@ Classifying the classical coding questions
 * [303. Range Sum Query - Immutable](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/303.md)
 * [325. Maximum Size Subarray Sum Equals k]
 * [528. Random Pick with Weight](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/528.md)
-* [560. Subarray Sum Equals K]
+* [560. Subarray Sum Equals K](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/560.md)
 
 
 ***8. Sum Question***
