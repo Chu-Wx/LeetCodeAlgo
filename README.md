@@ -158,7 +158,7 @@ Classifying the classical coding questions
 ### 必背
 * [1. Two Sum](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/1.md)
 ### 核心
-* [15. 3Sum]
+* [15. 3Sum](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/15.md)
 * [18. 4Sum]
 * [Lint-382. Triangle Count]
 ### 重点
