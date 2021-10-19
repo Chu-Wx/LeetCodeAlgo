@@ -156,7 +156,7 @@ Classifying the classical coding questions
 
 ***8. Sum Question***
 ### 必背
-* [1. Two Sum]
+* [1. Two Sum](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/1.md)
 ### 核心
 * [15. 3Sum]
 * [18. 4Sum]
