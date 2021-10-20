@@ -160,7 +160,7 @@ Classifying the classical coding questions
 ### 核心
 * [15. 3Sum](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/15.md)
 * [18. 4Sum](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/18.md)
-* [Lint-382. Triangle Count]
+* [Lint-382. Triangle Count](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt382.md)
 ### 重点
 * [167. Two Sum II - Input array is sorted]
 * [170. Two Sum III - Data structure design]
