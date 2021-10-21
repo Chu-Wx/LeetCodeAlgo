@@ -164,7 +164,7 @@ Classifying the classical coding questions
 ### 重点
 * [167. Two Sum II - Input array is sorted](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/167.md)
 * [170. Two Sum III - Data structure design]
-* [653. Two Sum IV - Input is a BST]
+* [653. Two Sum IV - Input is a BST](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/653.md)
 * [1099. Two Sum Less Than K]
 * [259. 3Sum Smaller]
 * [Lint-57. 3Sum Closest]
