@@ -198,7 +198,7 @@ Classifying the classical coding questions
 
 ***3. Matrix***
 ### 必背
-* [200. Number of Islands]
+* [200. Number of Islands](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/200.md)
 ### 核心
 * [490. The Maze]
 * [505. The Maze II]
