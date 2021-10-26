@@ -458,7 +458,7 @@ Classifying the classical coding questions
 
 ***12. Complex Data Structure***
 ### 必背
-* [146. LRU Cache]
+* [146. LRU Cache](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/146.md)
 * [460. LFU Cache]
 ### 核心
 * [211. Design Add and Search Words Data Structure]
