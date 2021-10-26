@@ -388,7 +388,7 @@ Classifying the classical coding questions
 * [49. Group Anagrams]
 * [128. Longest Consecutive Sequence]
 * [560. Subarray Sum Equals K]
-* [953. Verifying an Alien Dictionary]
+* [953. Verifying an Alien Dictionary](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/953.md)
 ### 重点
 * [290. Word Pattern]
 
