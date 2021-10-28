@@ -485,7 +485,7 @@ Classifying the classical coding questions
 ***2. Single Sequence***
 ### 核心
 * [139. Word Break]
-* [121. Best Time to Buy and Sell Stock]
+* [121. Best Time to Buy and Sell Stock](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/121.md)
 ### 重点
 * [122. Best Time to Buy and Sell Stock II]
 * [123. Best Time to Buy and Sell Stock III]
