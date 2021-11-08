@@ -248,7 +248,7 @@ Classifying the classical coding questions
 * [230. Kth Smallest Element in a BST]
 * [285. Inorder Successor in BST]
 ### 重点
-* [270. Closest Binary Search Tree Value]
+* [270. Closest Binary Search Tree Value](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/270.md)
 * [272. Closest Binary Search Tree Value II]
 * [510. Inorder Successor in BST II]
 * [Lint-915. Inorder Predecessor in BST II]
