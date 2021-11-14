@@ -400,7 +400,7 @@ Classifying the classical coding questions
 * [347. Top K Frequent Elements]
 * [692. Top K Frequent Words]
 * [767. Reorganize String]
-* [973. K Closest Points to Origin]
+* [973. K Closest Points to Origin](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/973.md)
 ### 重点
 * [480. Sliding Window Median]
 * [703. Kth Largest Element in a Stream]
