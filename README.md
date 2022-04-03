@@ -344,7 +344,7 @@ Classifying the classical coding questions
 ***1. Array & Matrix***
 ### 核心
 * [442. Find All Duplicates in an Array]
-* [48. Rotate Image]
+* [48. Rotate Image](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/48.md)
 * [54. Spiral Matrix]
 * [73. Set Matrix Zeroes]
 * [289. Game of Life]
