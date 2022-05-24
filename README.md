@@ -177,7 +177,7 @@ Classifying the classical coding questions
 ## BFS
 ***1. Binary Tree***
 ### 必背
-* [297. Serialize and Deserialize Binary Tree]
+* [297. Serialize and Deserialize Binary Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/297.md)
 ### 核心
 * [102. Binary Tree Level Order Traversal]
 * [103. Binary Tree Zigzag Level Order Traversal]
