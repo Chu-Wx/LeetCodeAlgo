@@ -180,7 +180,7 @@ Classifying the classical coding questions
 * [297. Serialize and Deserialize Binary Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/297.md)
 ### 核心
 * [102. Binary Tree Level Order Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/102.md)
-* [103. Binary Tree Zigzag Level Order Traversal]
+* [103. Binary Tree Zigzag Level Order Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/103.md)
 * [107. Binary Tree Level Order Traversal II]
 * [513. Find Bottom Left Tree Value]
 ### 重点
