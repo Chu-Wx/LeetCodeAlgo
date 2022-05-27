@@ -188,7 +188,7 @@ Classifying the classical coding questions
 
 ***2. 拓扑***
 ### 必背
-* [Lint-127. Topological Sorting]
+* [Lint-127. Topological Sorting](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/lt127.md)
 ### 核心
 * [207. Course Schedule]
 * [210. Course Schedule II]
