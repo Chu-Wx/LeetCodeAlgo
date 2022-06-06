@@ -200,7 +200,7 @@ Classifying the classical coding questions
 ### 必背
 * [200. Number of Islands](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/200.md)
 ### 核心
-* [490. The Maze]
+* [490. The Maze](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/490.md)
 * [505. The Maze II]
 * [542. 01 Matrix]
 * [733. Flood Fill]
