@@ -204,7 +204,7 @@ Classifying the classical coding questions
 * [505. The Maze II]
 * [542. 01 Matrix]
 * [733. Flood Fill](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/733.md)
-* [994. Rotting Oranges]
+* [994. Rotting Oranges](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/994.md)
 ### 重点
 * [305. Number of Islands II]
 * [773. Sliding Puzzle]
