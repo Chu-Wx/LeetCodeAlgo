@@ -218,7 +218,7 @@ Classifying the classical coding questions
 * [133. Clone Graph](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/994.md)
 ### 核心
 * [127. Word Ladder]
-* [261. Graph Valid Tree]
+* [261. Graph Valid Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/261.md)
 * [841. Keys and Rooms]
 ### 重点
 * [323. Number of Connected Components in an Undirected Graph]
