@@ -230,9 +230,9 @@ Classifying the classical coding questions
 ## Binary Tree & Recursion
 ***1. Tree Traversal***
 ### 必背
-* [94. Binary Tree Inorder Traversal]
-* [144. Binary Tree Preorder Traversal]
-* [145. Binary Tree Postorder Traversal]
+* [94. Binary Tree Inorder Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/94.md)
+* [144. Binary Tree Preorder Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/144.md)
+* [145. Binary Tree Postorder Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/145.md)
 
 ***2. Construct Binary Tree***
 ### 必背
