@@ -219,7 +219,7 @@ Classifying the classical coding questions
 ### 核心
 * [127. Word Ladder]
 * [261. Graph Valid Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/261.md)
-* [841. Keys and Rooms]
+* [841. Keys and Rooms](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/841.md)
 ### 重点
 * [323. Number of Connected Components in an Undirected Graph]
 * [1306. Jump Game III]
