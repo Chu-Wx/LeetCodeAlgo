@@ -236,7 +236,7 @@ Classifying the classical coding questions
 
 ***2. Construct Binary Tree***
 ### 必背
-* [105. Construct Binary Tree from Preorder and Inorder Traversal
+* [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/105.md)
 ### 核心
 * [106. Construct Binary Tree from Inorder and Postorder Traversal]
 * [889. Construct Binary Tree from Preorder and Postorder Traversal]
