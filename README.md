@@ -243,7 +243,7 @@ Classifying the classical coding questions
 
 ***3. Iterator***
 ### 必背
-* [173. Binary Search Tree Iterator]
+* [173. Binary Search Tree Iterator](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/173.md)
 ### 核心
 * [230. Kth Smallest Element in a BST]
 * [285. Inorder Successor in BST]
