@@ -250,7 +250,7 @@ Classifying the classical coding questions
 ### 重点
 * [270. Closest Binary Search Tree Value](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/270.md)
 * [272. Closest Binary Search Tree Value II]
-* [510. Inorder Successor in BST II]
+* [510. Inorder Successor in BST II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/510.md)
 * [Lint-915. Inorder Predecessor in BST II]
 
 ***4. Check Tree***
