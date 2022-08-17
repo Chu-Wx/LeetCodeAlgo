@@ -255,7 +255,7 @@ Classifying the classical coding questions
 
 ***4. Check Tree***
 ### 核心
-* [98. Validate Binary Search Tree]
+* [98. Validate Binary Search Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/98.md)
 * [100. Same Tree]
 * [101. Symmetric Tree]
 * [110. Balanced Binary Tree]
