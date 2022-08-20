@@ -271,7 +271,7 @@ Classifying the classical coding questions
 
 ***6.Path***
 ### 核心
-* [112. Path Sum]
+* [112. Path Sum](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/112.md)
 * [113. Path Sum II]
 * [124. Binary Tree Maximum Path Sum]
 ### 重点
