@@ -264,7 +264,7 @@ Classifying the classical coding questions
 ### 核心
 * [111. Minimum Depth of Binary Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/111.md)
 ### 重点
-* [104. Maximum Depth of Binary Tree]
+* [104. Maximum Depth of Binary Tree](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/104.md)
 * [333. Largest BST Subtree]
 * [Lint-596. Minimum Subtree]
 * [Lint-597. Subtree with Maximum Average]
