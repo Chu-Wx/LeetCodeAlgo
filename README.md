@@ -289,7 +289,7 @@ Classifying the classical coding questions
 
 ***8. Other***
 ### 核心
-* [199. Binary Tree Right Side View]
+* [199. Binary Tree Right Side View](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/199.md)
 * [513. Find Bottom Left Tree Value]
 * [331. Verify Preorder Serialization of a Binary Tree]
 * [449. Serialize and Deserialize BST]
