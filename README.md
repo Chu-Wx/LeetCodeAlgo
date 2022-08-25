@@ -300,7 +300,7 @@ Classifying the classical coding questions
 ***1. Combinations***
 ### 必背
 * [39. Combination Sum](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/39.md)
-* [40. Combination Sum II]
+* [40. Combination Sum II](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/40.md)
 * [46. Permutations]
 * [47. Permutations II]
 * [77. Combinations]
