@@ -299,7 +299,7 @@ Classifying the classical coding questions
 ## DFS
 ***1. Combinations***
 ### 必背
-* [39. Combination Sum]
+* [39. Combination Sum](https://github.com/Chu-Wx/LeetCodeAlgo/blob/main/File/39.md)
 * [40. Combination Sum II]
 * [46. Permutations]
 * [47. Permutations II]
